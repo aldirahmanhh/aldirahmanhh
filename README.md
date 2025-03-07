@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently study on Universitas Mercu Buana<br>🌱 I’m currently learning Python, and PHP<br><br>⚡ Fun fact I like gaming
+🔭 I’m currently study on Universitas Mercu Buana<br>🌱 I’m currently learning Python, and PHP<br><br>⚡ Fun fact I like gaming <br> I wanna learn about Mobile Development also make a tops App Mobile!
 
 
 # 💻 Tech Stack:
