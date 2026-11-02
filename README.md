@@ -1,7 +1,7 @@
 <!-- HEADER ANIMASI -->
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="header" />
+<img src=".header.svg" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+Aldi;Currently+learning+Laravel+%26+React+JS;Building+web%2C+mobile+%26+AI+projects;Always+curious.+Always+shipping." alt="Typing SVG" />
