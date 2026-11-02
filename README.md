@@ -85,16 +85,6 @@ const aldi = {
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aldirahmanhh&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" width="100%" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -104,26 +94,6 @@ const aldi = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aldirahmanhh/aldirahmanhh/output/github-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/aldirahmanhh/aldirahmanhh/output/github-snake.svg" />
 </picture>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aldirahmanhh&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-</div>
-
----
-
-## 🔝 Top Contributed Repo
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=aldirahmanhh&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top contributed repo" />
 
 </div>
 
